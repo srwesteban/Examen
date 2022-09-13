@@ -1,0 +1,15 @@
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.csproj.AssemblyReference.cache
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.AssemblyInfoInputs.cache
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.AssemblyInfo.cs
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\bin\Debug\net6.0\ClaseEmpleado.exe
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\bin\Debug\net6.0\ClaseEmpleado.deps.json
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\bin\Debug\net6.0\ClaseEmpleado.runtimeconfig.json
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\bin\Debug\net6.0\ClaseEmpleado.dll
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\bin\Debug\net6.0\ClaseEmpleado.pdb
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.dll
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\refint\ClaseEmpleado.dll
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.pdb
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ClaseEmpleado.genruntimeconfig.cache
+C:\Users\W\source\repos\ClaseEmpleado\ClaseEmpleado\obj\Debug\net6.0\ref\ClaseEmpleado.dll
